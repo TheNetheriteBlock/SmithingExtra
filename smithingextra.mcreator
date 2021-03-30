@@ -243,6 +243,69 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "iron_chestplate_to_gold"
+    },
+    {
+      "name": "TurtleShellToNetherite",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "turtle_shell_to_netherite"
+    },
+    {
+      "name": "LeatherLeggingsToIron",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_leggings_to_iron"
+    },
+    {
+      "name": "IronLeggingsToDiamond",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_leggings_to_diamond"
+    },
+    {
+      "name": "IronLeggingsToGold",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_leggings_to_gold"
+    },
+    {
+      "name": "LeatherBootsToIron",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_boots_to_iron"
+    },
+    {
+      "name": "IronBootsToDiamond",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_boots_to_diamond"
+    },
+    {
+      "name": "IronBootsToGold",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_boots_to_gold"
     }
   ],
   "variable_elements": [],
@@ -258,7 +321,7 @@
     "modid": "smithingextra",
     "modName": "SmithingExtra",
     "version": "1.0.0",
-    "author": "thanhdat, MCreator",
+    "author": "TheNetheriteGuy",
     "websiteURL": "https://mcreator.net",
     "license": "GNU General Public License version 2 (GPLv2)",
     "disableForgeVersionCheck": true,
