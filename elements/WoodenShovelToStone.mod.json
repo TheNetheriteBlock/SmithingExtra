@@ -1,0 +1,23 @@
+{
+  "_fv": 17,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "Items.WOODEN_SHOVEL"
+    },
+    "smithingInputAdditionStack": {
+      "value": "Blocks.COBBLESTONE"
+    },
+    "smithingReturnStack": {
+      "value": "Items.STONE_SHOVEL"
+    },
+    "name": "wooden_shovel_to_stone",
+    "namespace": "mod"
+  }
+}

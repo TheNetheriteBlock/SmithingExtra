@@ -1,0 +1,249 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "WoodenPickToStone",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooden_pick_to_stone"
+    },
+    {
+      "name": "StonePickToIron",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_pick_to_iron"
+    },
+    {
+      "name": "IronPickToDiamond",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_pick_to_diamond"
+    },
+    {
+      "name": "IronPickToGold",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_pick_to_gold"
+    },
+    {
+      "name": "WoodenAxeToStone",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooden_axe_to_stone"
+    },
+    {
+      "name": "StoneAxeToIron",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_axe_to_iron"
+    },
+    {
+      "name": "IronAxeToDiamond",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_axe_to_diamond"
+    },
+    {
+      "name": "IronAxeToGold",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_axe_to_gold"
+    },
+    {
+      "name": "WoodenShovelToStone",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooden_shovel_to_stone"
+    },
+    {
+      "name": "StoneShovelToIron",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_shovel_to_iron"
+    },
+    {
+      "name": "IronShovelToDiamond",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_shovel_to_diamond"
+    },
+    {
+      "name": "IronShovelToGold",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_shovel_to_gold"
+    },
+    {
+      "name": "WoodenHoeToStone",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooden_hoe_to_stone"
+    },
+    {
+      "name": "StoneHoeToIron",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_hoe_to_iron"
+    },
+    {
+      "name": "IronHoeToDiamond",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_hoe_to_diamond"
+    },
+    {
+      "name": "IronHoeToGold",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_hoe_to_gold"
+    },
+    {
+      "name": "WoodenSwordToStone",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooden_sword_to_stone"
+    },
+    {
+      "name": "StoneSwordToIron",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_sword_to_iron"
+    },
+    {
+      "name": "IronSwordToDiamond",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_sword_to_diamond"
+    },
+    {
+      "name": "IronSwordToGold",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_sword_to_gold"
+    },
+    {
+      "name": "LeatherHelmetToIron",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_helmet_to_iron"
+    },
+    {
+      "name": "IronHelmetToDiamond",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_helmet_to_diamond"
+    },
+    {
+      "name": "IronHelmetToGold",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_helmet_to_gold"
+    },
+    {
+      "name": "IronHelmetToTurtleShell",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_helmet_to_turtle_shell"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "smithingextra",
+    "modName": "SmithingExtra",
+    "version": "1.0.0",
+    "author": "thanhdat, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "GNU General Public License version 2 (GPLv2)",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "datapack-1.16.x",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.smithingextra",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100199999
+}

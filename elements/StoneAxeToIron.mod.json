@@ -1,0 +1,23 @@
+{
+  "_fv": 17,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "Items.STONE_AXE"
+    },
+    "smithingInputAdditionStack": {
+      "value": "Items.IRON_INGOT"
+    },
+    "smithingReturnStack": {
+      "value": "Items.IRON_AXE"
+    },
+    "name": "stone_axe_to_iron",
+    "namespace": "mod"
+  }
+}
