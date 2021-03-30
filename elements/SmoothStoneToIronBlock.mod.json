@@ -1,0 +1,23 @@
+{
+  "_fv": 17,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "Blocks.SMOOTH_STONE"
+    },
+    "smithingInputAdditionStack": {
+      "value": "Items.IRON_INGOT"
+    },
+    "smithingReturnStack": {
+      "value": "Blocks.IRON_BLOCK"
+    },
+    "name": "smooth_stone_to_iron_block",
+    "namespace": "mod"
+  }
+}

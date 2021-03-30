@@ -306,6 +306,51 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "iron_boots_to_gold"
+    },
+    {
+      "name": "SmoothStoneToIronBlock",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smooth_stone_to_iron_block"
+    },
+    {
+      "name": "IronBlockToDiamondBlock",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_block_to_diamond_block"
+    },
+    {
+      "name": "IronBlockToGoldBlock",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_block_to_gold_block"
+    },
+    {
+      "name": "DiamondBlockToNetheriteBlock",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_block_to_netherite_block"
+    },
+    {
+      "name": "IronBlockToEmeraldBlock",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_block_to_emerald_block"
     }
   ],
   "variable_elements": [],
