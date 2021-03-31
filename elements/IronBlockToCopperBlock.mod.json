@@ -1,0 +1,23 @@
+{
+  "_fv": 17,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "Blocks.IRON_BLOCK"
+    },
+    "smithingInputAdditionStack": {
+      "value": "Items.EMERALD"
+    },
+    "smithingReturnStack": {
+      "value": "Blocks.EMERALD_BLOCK"
+    },
+    "name": "iron_block_to_copper_block",
+    "namespace": "mod"
+  }
+}

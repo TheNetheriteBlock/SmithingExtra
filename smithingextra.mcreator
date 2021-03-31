@@ -351,6 +351,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "iron_block_to_emerald_block"
+    },
+    {
+      "name": "IronBlockToCopperBlock",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "iron_block_to_copper_block"
     }
   ],
   "variable_elements": [],
@@ -368,17 +377,17 @@
     "version": "1.0.0",
     "author": "TheNetheriteGuy",
     "websiteURL": "https://mcreator.net",
-    "license": "GNU General Public License version 2 (GPLv2)",
+    "license": "Creative Commons Attribution-NonCommercial 3.0",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
-    "currentGenerator": "datapack-1.16.x",
+    "currentGenerator": "datapack-1.17.x",
     "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.smithingextra",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202100199999
+  "mcreatorVersion": 202100114210
 }
