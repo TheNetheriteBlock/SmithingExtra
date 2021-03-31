@@ -4,7 +4,7 @@
     "item": "minecraft:iron_block"
   },
   "addition": {
-    "item": "minecraft:copper_ore"
+    "item": "minecraft:copper_ingot"
   },
   "result": {
     "item": "minecraft:copper_block"
