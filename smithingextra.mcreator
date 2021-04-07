@@ -8,7 +8,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wooden_pick_to_stone"
+      "registry_name": "wooden_pick_to_stone",
+      "path": "~/Pickaxe"
     },
     {
       "name": "StonePickToIron",
@@ -17,7 +18,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "stone_pick_to_iron"
+      "registry_name": "stone_pick_to_iron",
+      "path": "~/Pickaxe"
     },
     {
       "name": "IronPickToDiamond",
@@ -26,7 +28,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "iron_pick_to_diamond"
+      "registry_name": "iron_pick_to_diamond",
+      "path": "~/Pickaxe"
     },
     {
       "name": "IronPickToGold",
@@ -35,7 +38,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "iron_pick_to_gold"
+      "registry_name": "iron_pick_to_gold",
+      "path": "~/Pickaxe"
     },
     {
       "name": "WoodenAxeToStone",
@@ -44,7 +48,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wooden_axe_to_stone"
+      "registry_name": "wooden_axe_to_stone",
+      "path": "~/Axe"
     },
     {
       "name": "StoneAxeToIron",
@@ -53,7 +58,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "stone_axe_to_iron"
+      "registry_name": "stone_axe_to_iron",
+      "path": "~/Axe"
     },
     {
       "name": "IronAxeToDiamond",
@@ -62,7 +68,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "iron_axe_to_diamond"
+      "registry_name": "iron_axe_to_diamond",
+      "path": "~/Axe"
     },
     {
       "name": "IronAxeToGold",
@@ -71,7 +78,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "iron_axe_to_gold"
+      "registry_name": "iron_axe_to_gold",
+      "path": "~/Axe"
     },
     {
       "name": "WoodenShovelToStone",
@@ -80,7 +88,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wooden_shovel_to_stone"
+      "registry_name": "wooden_shovel_to_stone",
+      "path": "~/Shovel"
     },
     {
       "name": "StoneShovelToIron",
@@ -89,7 +98,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "stone_shovel_to_iron"
+      "registry_name": "stone_shovel_to_iron",
+      "path": "~/Shovel"
     },
     {
       "name": "IronShovelToDiamond",
@@ -98,7 +108,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "iron_shovel_to_diamond"
+      "registry_name": "iron_shovel_to_diamond",
+      "path": "~/Shovel"
     },
     {
       "name": "IronShovelToGold",
@@ -107,7 +118,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "iron_shovel_to_gold"
+      "registry_name": "iron_shovel_to_gold",
+      "path": "~/Shovel"
     },
     {
       "name": "WoodenHoeToStone",
@@ -116,7 +128,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wooden_hoe_to_stone"
+      "registry_name": "wooden_hoe_to_stone",
+      "path": "~/Hoe"
     },
     {
       "name": "StoneHoeToIron",
@@ -125,7 +138,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "stone_hoe_to_iron"
+      "registry_name": "stone_hoe_to_iron",
+      "path": "~/Hoe"
     },
     {
       "name": "IronHoeToDiamond",
@@ -134,7 +148,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "iron_hoe_to_diamond"
+      "registry_name": "iron_hoe_to_diamond",
+      "path": "~/Hoe"
     },
     {
       "name": "IronHoeToGold",
@@ -143,7 +158,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "iron_hoe_to_gold"
+      "registry_name": "iron_hoe_to_gold",
+      "path": "~/Hoe"
     },
     {
       "name": "WoodenSwordToStone",
@@ -152,7 +168,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wooden_sword_to_stone"
+      "registry_name": "wooden_sword_to_stone",
+      "path": "~/Sword"
     },
     {
       "name": "StoneSwordToIron",
@@ -161,7 +178,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "stone_sword_to_iron"
+      "registry_name": "stone_sword_to_iron",
+      "path": "~/Sword"
     },
     {
       "name": "IronSwordToDiamond",
@@ -170,7 +188,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "iron_sword_to_diamond"
+      "registry_name": "iron_sword_to_diamond",
+      "path": "~/Sword"
     },
     {
       "name": "IronSwordToGold",
@@ -179,7 +198,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "iron_sword_to_gold"
+      "registry_name": "iron_sword_to_gold",
+      "path": "~/Sword"
     },
     {
       "name": "LeatherHelmetToIron",
@@ -188,7 +208,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "leather_helmet_to_iron"
+      "registry_name": "leather_helmet_to_iron",
+      "path": "~/Helmet"
     },
     {
       "name": "IronHelmetToDiamond",
@@ -197,7 +218,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "iron_helmet_to_diamond"
+      "registry_name": "iron_helmet_to_diamond",
+      "path": "~/Helmet"
     },
     {
       "name": "IronHelmetToGold",
@@ -206,7 +228,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "iron_helmet_to_gold"
+      "registry_name": "iron_helmet_to_gold",
+      "path": "~/Helmet"
     },
     {
       "name": "IronHelmetToTurtleShell",
@@ -215,7 +238,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "iron_helmet_to_turtle_shell"
+      "registry_name": "iron_helmet_to_turtle_shell",
+      "path": "~/Helmet"
     },
     {
       "name": "LeatherChestplateToIron",
@@ -224,7 +248,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "leather_chestplate_to_iron"
+      "registry_name": "leather_chestplate_to_iron",
+      "path": "~/Chestplate"
     },
     {
       "name": "IronChestplateToDiamond",
@@ -233,7 +258,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "iron_chestplate_to_diamond"
+      "registry_name": "iron_chestplate_to_diamond",
+      "path": "~/Chestplate"
     },
     {
       "name": "IronChestplateToGold",
@@ -242,7 +268,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "iron_chestplate_to_gold"
+      "registry_name": "iron_chestplate_to_gold",
+      "path": "~/Chestplate"
     },
     {
       "name": "TurtleShellToNetherite",
@@ -251,7 +278,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "turtle_shell_to_netherite"
+      "registry_name": "turtle_shell_to_netherite",
+      "path": "~/Helmet"
     },
     {
       "name": "LeatherLeggingsToIron",
@@ -260,7 +288,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "leather_leggings_to_iron"
+      "registry_name": "leather_leggings_to_iron",
+      "path": "~/Leggings"
     },
     {
       "name": "IronLeggingsToDiamond",
@@ -269,7 +298,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "iron_leggings_to_diamond"
+      "registry_name": "iron_leggings_to_diamond",
+      "path": "~/Leggings"
     },
     {
       "name": "IronLeggingsToGold",
@@ -278,7 +308,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "iron_leggings_to_gold"
+      "registry_name": "iron_leggings_to_gold",
+      "path": "~/Leggings"
     },
     {
       "name": "LeatherBootsToIron",
@@ -287,7 +318,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "leather_boots_to_iron"
+      "registry_name": "leather_boots_to_iron",
+      "path": "~/Boots"
     },
     {
       "name": "IronBootsToDiamond",
@@ -296,7 +328,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "iron_boots_to_diamond"
+      "registry_name": "iron_boots_to_diamond",
+      "path": "~/Boots"
     },
     {
       "name": "IronBootsToGold",
@@ -305,7 +338,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "iron_boots_to_gold"
+      "registry_name": "iron_boots_to_gold",
+      "path": "~/Boots"
     },
     {
       "name": "SmoothStoneToIronBlock",
@@ -314,7 +348,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "smooth_stone_to_iron_block"
+      "registry_name": "smooth_stone_to_iron_block",
+      "path": "~/Block"
     },
     {
       "name": "IronBlockToDiamondBlock",
@@ -323,7 +358,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "iron_block_to_diamond_block"
+      "registry_name": "iron_block_to_diamond_block",
+      "path": "~/Block"
     },
     {
       "name": "IronBlockToGoldBlock",
@@ -332,7 +368,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "iron_block_to_gold_block"
+      "registry_name": "iron_block_to_gold_block",
+      "path": "~/Block"
     },
     {
       "name": "DiamondBlockToNetheriteBlock",
@@ -341,7 +378,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "diamond_block_to_netherite_block"
+      "registry_name": "diamond_block_to_netherite_block",
+      "path": "~/Block"
     },
     {
       "name": "IronBlockToEmeraldBlock",
@@ -350,7 +388,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "iron_block_to_emerald_block"
+      "registry_name": "iron_block_to_emerald_block",
+      "path": "~/Block"
     },
     {
       "name": "IronBlockToCopperBlock",
@@ -359,7 +398,8 @@
       "compiles": true,
       "locked_code": true,
       "ids": {},
-      "registry_name": "iron_block_to_copper_block"
+      "registry_name": "iron_block_to_copper_block",
+      "path": "~/Block"
     }
   ],
   "variable_elements": [],
@@ -369,7 +409,48 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "Pickaxe",
+        "children": []
+      },
+      {
+        "name": "Axe",
+        "children": []
+      },
+      {
+        "name": "Shovel",
+        "children": []
+      },
+      {
+        "name": "Hoe",
+        "children": []
+      },
+      {
+        "name": "Sword",
+        "children": []
+      },
+      {
+        "name": "Helmet",
+        "children": []
+      },
+      {
+        "name": "Chestplate",
+        "children": []
+      },
+      {
+        "name": "Leggings",
+        "children": []
+      },
+      {
+        "name": "Boots",
+        "children": []
+      },
+      {
+        "name": "Block",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "smithingextra",
@@ -389,5 +470,5 @@
     "modElementsPackage": "net.mcreator.smithingextra",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202100114210
+  "mcreatorVersion": 202100112313
 }
