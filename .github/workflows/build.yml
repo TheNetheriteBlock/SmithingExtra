@@ -34,5 +34,5 @@ jobs:
           # The package type (jdk, jre, jdk+fx, jre+fx)
           java-package: 'jdk+fx"
       # Runs a single command using the runners shell
-      - name: Makeaartifact
+      - name: Make artifact
         run: ./gradlew build
